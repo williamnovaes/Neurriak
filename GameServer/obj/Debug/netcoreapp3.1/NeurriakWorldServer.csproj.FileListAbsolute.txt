@@ -1,0 +1,13 @@
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\bin\Debug\netcoreapp3.1\NeurriakWorldServer.exe
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\bin\Debug\netcoreapp3.1\NeurriakWorldServer.deps.json
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\bin\Debug\netcoreapp3.1\NeurriakWorldServer.runtimeconfig.json
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\bin\Debug\netcoreapp3.1\NeurriakWorldServer.runtimeconfig.dev.json
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\bin\Debug\netcoreapp3.1\NeurriakWorldServer.dll
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\bin\Debug\netcoreapp3.1\NeurriakWorldServer.pdb
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\obj\Debug\netcoreapp3.1\NeurriakWorldServer.csprojAssemblyReference.cache
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\obj\Debug\netcoreapp3.1\NeurriakWorldServer.AssemblyInfoInputs.cache
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\obj\Debug\netcoreapp3.1\NeurriakWorldServer.AssemblyInfo.cs
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\obj\Debug\netcoreapp3.1\NeurriakWorldServer.csproj.CoreCompileInputs.cache
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\obj\Debug\netcoreapp3.1\NeurriakWorldServer.dll
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\obj\Debug\netcoreapp3.1\NeurriakWorldServer.pdb
+C:\Users\willi\Unity\Servers\NeurriakWorldServer\obj\Debug\netcoreapp3.1\NeurriakWorldServer.genruntimeconfig.cache
