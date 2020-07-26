@@ -10,6 +10,7 @@ namespace NeurriakClient {
         public static Client instance;
         public static int dataBufferSize = 4096;
 
+        // public string ip = "189.36.132.251";
         public string ip = "127.0.0.1";
         public int port = 26950;
         public int myId = 0;
